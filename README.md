@@ -1,1 +1,1 @@
-# Warsztaty_2
+# Simple Programming School

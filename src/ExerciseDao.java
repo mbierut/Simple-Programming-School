@@ -1,0 +1,2 @@
+public class ExerciseDao {
+}
